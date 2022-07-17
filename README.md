@@ -14,38 +14,38 @@ To setup this project locally you need to have following requirements :
 
 After you have downloaded above requirements, follow the given steps :
 - Click on the Code button on the top of this page and copy HTTPS link 
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1345).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1345).png"> <br/>
 
 
 
 - Open Visual Studio Code and click on clone repository
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1346).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1346).png"> <br/>
 
 
 
 - Paste the copied link 
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1347).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1347).png"> <br/>
 
 
 
 - Now you have to create a remote folder where these will be saved locally
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1348).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1348).png"> <br/>
 
 
 
 - Now the project is successfully cloned in your system, open terminal in vs code
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1349).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1349).png"> <br/>
 
 
 - Now write command: 
    > node app.js
 - The server will start at port 8080
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1350).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1350).png"> <br/>
 
 - Now go to browser and write: 
    > localhost:8080
 - And you will land on home page.
-<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/WebMap/blob/main/For%20readme/Screenshot%20(1360).png"> <br/>
+<img align="right" alt="Coding" width="1200" style="border-radius:5px solid white" src="https://github.com/Mihir6365/Web-Map/blob/main/For%20readme/Screenshot%20(1360).png"> <br/>
 
 - You have successfully cloned "WebMap" on your local system.
 
